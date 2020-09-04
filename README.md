@@ -2,7 +2,11 @@
 # Extract, Transform and Load Project
 
 ## Overview
-In this project, we chose to examine NBA players and their social power based on their stats during the 2016-2017 season. We were able to use the resources listed below to extract the data, then we used Python Pandas to transform the data and finally uploaded it into SQLite.
+In this project, we chose to examine NBA players and their social power based on their stats during the 2016-2017 season. We were able to use the resources listed below to extract the data, then we used Python Pandas to transform the data and finally uploaded it into SQLite. Some of the questions we would like to answer in the future would be:
+
+1. Is there a relationship between player performance and social power?
+2. Who knows more about the best players, the team owners or the NBA fans?
+3. What is the worth of the social media presence?
 
 ## Transformations
 To transform the data, a variation of operations were performed. The original data was in the csv format and needed to be imported into Python to work with, and then transformed using Pandas. Some of the operations included dropping NaN values, dropping unnecessary columns, filtering the data, sorting the data and formatting the data. A detailed transformation breakdown of each of the data extracted is below:
