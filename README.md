@@ -14,6 +14,8 @@ Endorsements --> Transformed Salary and Endorsement object data types into float
 Twitter --> Changed the column names, then sorted the values by Favorite Count and dropped any NaN rows. Finally filtered the players with greater than 100 Favorite count and reset the index.
 
 Wikipedia --> Dropped unnecessary columns and then grouped the data by player name and summed their pageviews. Then the data was sorted by count and filtered for players with greater than 1000 page views. Finally it was finished with some formatting.
+## Problems faced
+
 
 ## Resources
  1. Kaggle
