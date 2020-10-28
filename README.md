@@ -26,7 +26,7 @@ Wikipedia --> Dropped unnecessary columns and then grouped the data by player na
 Attendance.csv and Team_valuation.csv --> Merged the two files to one, created a new column "Team Ticker" but also dropped unnecessary column.Then formatted the TOTAL AND AVG colums values. Lastly set team as index and sorted the table in descending order based on Team_value.
 
 ## Problems faced
-Thanks to teamwork, we did not really face any significant challenges. The main challenge faced was during the loading of our data to sqlite, however we were able to figure it out.
+Thanks to teamwork, we did not really face any significant challenges. The main challenge faced was during the loading of our data to sqlite, however we were able to figure it out and also loaded the data into MongoDB for some of the data.
 
 
 ## Resources
