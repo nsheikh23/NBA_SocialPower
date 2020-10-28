@@ -1,4 +1,4 @@
-# NBA_SocialPower
+# NBA Social Power
 # Extract, Transform and Load Project
 
 ## Overview
